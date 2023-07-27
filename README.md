@@ -1,5 +1,2 @@
-- 👋 Hi, I’m Ayush Kumar Singh
-- 👀 I’m interested in Terraform, Kubernetes, AWS
-- 🌱 I’m currently learning Kubernetes
-- 📫 How to reach me - ayush.k.singh.2298@gmail.com
+A 2-year experienced Cloud Engineer with expertise in automating and optimising software development lifecycle, infrastructure as code, and cloud architecture. Proficient in designing, implementing, and maintaining highly available and scalable systems. Passionate about creating solutions that increase efficiency, reduce costs, and enhance overall performance.
 
